@@ -1,5 +1,5 @@
 {
-	"proxy": "https://weather-app-service-api.onrender.com",
+	"proxy": "https://workout-tracker-api.onrender.com",
 	"name": "frontend",
 	"version": "0.1.0",
 	"private": true,
