@@ -14,7 +14,7 @@ export const Home = () => {
     useEffect(() => {
         const fetchWorkouts = async () => {
             // nie ma tu w linku "http://localhost:4000/" bo zostało dodane jako proxy w pliku json
-            const response = await fetch('/api/workouts', {
+            const response = await fetch('https://workout-tracker-api-fram.onrender.com/api/workouts', {
                 headers: {
                     'Authorization': `Bearer ${user.token}`
                 }

@@ -1,5 +1,4 @@
 {
-	"proxy": "https://workout-tracker-api-fram.onrender.com/",
 	"name": "frontend",
 	"version": "0.1.0",
 	"private": true,
