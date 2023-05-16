@@ -1,5 +1,5 @@
 {
-	"proxy": "https://workout-tracker-mern.onrender.com",
+	"proxy": "https://workout-tracker-mern.netlify.app",
 	"name": "frontend",
 	"version": "0.1.0",
 	"private": true,
